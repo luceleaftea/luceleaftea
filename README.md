@@ -7,7 +7,7 @@ Pronouns: he/him/his
 * [TheFabCube](https://www.thefabcube.com) - A card database and cube builder website for Flesh and Blood TCG
 
 ### Mobile Apps
-* [Shards of Aidalon}(https://apps.apple.com/us/app/shards-of-aidalon/id6744846219) - An iOS "life" tracker app for Hubworld: Aidalon
+* [Shards of Aidalon](https://apps.apple.com/us/app/shards-of-aidalon/id6744846219) - An iOS "life" tracker app for Hubworld: Aidalon
 * [Aeon's End iOS Randomizer](https://luceleaftea.com/projects/aeon-s-end-ios-randomizer/) - An iOS app for randomizing Aeon's End setup + tracking battle history (Not yet released)
 
 ### Video Games
