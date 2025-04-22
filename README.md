@@ -3,10 +3,18 @@ Hey, I'm Tyler! Also known as luceleaftea / looseleaftea online. I'm a software 
 Pronouns: he/him/his
 
 ## Personal Projects
+### Websites
 * [TheFabCube](https://www.thefabcube.com) - A card database and cube builder website for Flesh and Blood TCG
-* [Flesh and Blood Cards Dataset](https://github.com/the-fab-cube/flesh-and-blood-cards) - An open source community dataset for the Flesh and Blood TCG
+
+### Mobile Apps
+* [Shards of Aidalon}(https://apps.apple.com/us/app/shards-of-aidalon/id6744846219) - An iOS "life" tracker app for Hubworld: Aidalon
+* [Aeon's End iOS Randomizer](https://luceleaftea.com/projects/aeon-s-end-ios-randomizer/) - An iOS app for randomizing Aeon's End setup + tracking battle history (Not yet released)
+
+### Video Games
 * [Wizard Tactics](https://luceleaftea.com/projects/wizard-tactics/) - A simultaneous-turn versus game about lethal wizard battles with physics and element interactions
-* [Aeon's End iOS Randomizer](https://luceleaftea.com/projects/aeon-s-end-ios-randomizer/) - An iOS app for randomizing Aeon's End setup + tracking battle history
+
+### Datasets
+* [Flesh and Blood Cards Dataset](https://github.com/the-fab-cube/flesh-and-blood-cards) - An open source community dataset for the Flesh and Blood TCG
 
 ## Contact
 * [Personal Website](https://luceleaftea.com/)
