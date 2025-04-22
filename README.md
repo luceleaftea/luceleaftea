@@ -1,4 +1,4 @@
-Hey, I'm Tyler! Also known as luceleaftea / looseleaftea online. I'm a software developer and a musician. I primarily do web, server, and iOS development, and dabble in game dev in my free time.
+Hey, I'm Tyler! Also known as luceleaftea / looseleaftea online. I'm a software developer and a musician. I primarily do web, server, and iOS development, and dabble in game dev in my free time. I love playing and making games and projects that help people interact with games.
 
 Pronouns: he/him/his
 
